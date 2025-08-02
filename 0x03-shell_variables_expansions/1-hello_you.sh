@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Hello, $USER! You are currently in the directory: $PWD"
